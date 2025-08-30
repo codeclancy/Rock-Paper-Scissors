@@ -1,1 +1,2 @@
 # Rock-Paper-Scissors
+In this project, the goal is to create a game of rock, paper, scissors that works completely in the console. Here you will play the computer in a best-of-5 game, with each round printing the results. The input should be able to take rock, paper, or scissors regardless of its assortment of upper or lowercase letters. For example, ROck or roCk will be accepted. As long as the words are spelt correctly and there is no additional characters, the input will work accordingly. 
